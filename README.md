@@ -1,20 +1,39 @@
-# StarbucksPromotion
-This project consists of an application to analyze how to use Machine Learning to target personalised product promotions to customers.
+# Starbucks-offer-optimization
+Offer optimization using machine learning techniques with Starbucks dataset.
 
-# Contents
- - StarbucksPromotion.ipynb: Jupyter notebook with the process of data cleaning, model training and validation
- - TrainingData.csv: Training dataset for the ML model
- - TestData.csv: Testing dataset for validating the ML model
+# Project Motivation:
+Every businessmen interested in maximizing their profit and that's why they have offers to attract more customers. But what if we know that how the customer will react before giving offers? 
+Dream Come true, right? This project is using machine learning techniques to illustrate it.
 
-# Dependencies
-1)XGBoost
-2)imlearn
-3)SciPy
-4)Sklearn 
-5)Numpy
+# Files:
+Starbucks.ipynb : contains code <br>
+data/portfolio.json : contains offers metadata <br>
+data/profile.json : contains customers metadata <br>
+data/transcript.json : contains interaction customer-offers <br>
 
-# License
-The code used in this repository is licensed under a MIT license included in LICENSE
+# Libraries:
+Numpy <br>
+Pandas <br>
+Matplotlib <br>
+Seaboarn <br>
+Sklearn <br>
 
-# Acknowledgements
-Must give credit to Starbucks for providing the dataset and to Udacity for the idea of the project
+# References:
+Pre-processing techniques: https://pandas.pydata.org/docs/ <br>
+Machine learning techniques: https://scikit-learn.org/stable/auto_examples/index.html#classification
+
+# Summary of Analysis:
+All business related questions solved with just analysis that is in project notebook and blog, too.
+<br> Which customers have higher income? Who will be more attracted to complete offers? These are the sample questions those are answered by analysis.
+
+# How to Run
+You can run this ipynb with jupyter notebook or take it to Google Colab.
+<br>
+#Results
+
+<img src="summary.png"/>
+
+<br/>
+
+<h2>Blog<h2> <br/>
+https://medium.com/@prashantjadiya/offer-optimization-using-machine-learning-46a1f5d1b59b
