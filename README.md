@@ -23,8 +23,8 @@ All business related questions solved with just analysis that is in project note
 You can run this ipynb with Jupiter notebook.
 
 # License
-
+The code used in this repository is licensed under a MIT license included in LICENSE.
 
 # Acknowledgements
-
+Must give credit to Udacity, and IBM for providing the dataset.
 
