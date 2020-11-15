@@ -26,5 +26,5 @@ You can run this ipynb with Jupiter notebook.
 The code used in this repository is licensed under a MIT license included in LICENSE.
 
 # Acknowledgements
-Must give credit to Udacity, and IBM for providing the dataset.
+Must give credit to Udacity, and Starbucks for providing the dataset.
 
