@@ -14,11 +14,6 @@ Matplotlib <br>
 Seaborn <br>
 Scikit-learn <br>
 
-
-# Summary of Analysis:
-All business related questions solved with just analysis that is in project notebook and blog, too.
-<br> Which customers have higher income? Who will be more attracted to complete offers? These are the sample questions those are answered by analysis.
-
 # Instructions
 You can run this ipynb with Jupiter notebook.
 
