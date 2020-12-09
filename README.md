@@ -15,7 +15,9 @@ data/transcript.json : Dataset containing interaction customer-offers <br>
 *Scikit-learn <br>
 
 ## Instructions
-Download the data and Starbucks.ipynb and run it using Jupyter notebook
+Download the data and Starbucks.ipynb and run it using Jupyter notebook.
+
+A blog post with the findings of the analysis can be found [here](https://medium.com/@albertoserrano/optimising-starbucks-product-promotions-7f5ebfdb8ffc).
 
 ## License
 The code used in this repository is licensed under a MIT license included in LICENSE.
