@@ -2,10 +2,10 @@
 This project provides a Machine Learning approach to personalise Starbucks product promotions to customers based on past transactions.
 
 ##  Contents
-Starbucks.ipynb: Jupiter notebook with the data processing and model set-up and training <br>
-data/portfolio.json: Dataset containing offers metadata <br>
-data/profile.json : Dataset containing customers metadata <br>
-data/transcript.json : Dataset containing interaction customer-offers <br>
+ - Starbucks.ipynb: Jupiter notebook with the data processing and model set-up and training <br>
+ - data/portfolio.json: Dataset containing offers metadata <br>
+ - data/profile.json : Dataset containing customers metadata <br>
+ - data/transcript.json : Dataset containing interaction customer-offers <br>
 
 ## Libraries
  - Numpy <br>
