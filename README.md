@@ -8,11 +8,11 @@ data/profile.json : Dataset containing customers metadata <br>
 data/transcript.json : Dataset containing interaction customer-offers <br>
 
 ## Libraries
-*Numpy <br>
-*Pandas <br>
-*Matplotlib <br>
-*Seaborn <br>
-*Scikit-learn <br>
+ - Numpy <br>
+ - Pandas <br>
+ - Matplotlib <br>
+ - Seaborn <br>
+ - Scikit-learn <br>
 
 ## Instructions
 Download the data and Starbucks.ipynb and run it using Jupyter notebook.
